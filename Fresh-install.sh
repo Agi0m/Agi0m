@@ -11,7 +11,7 @@ flatpak install com.github.iwalton3.jellyfin-media-player -y
 flatpak install onfo.febvre.Komikku -y
 #flatpak install org.libreoffice.Libreoffice -y
 flatpak install net.agalwood.Motrix -y
-flatpak install org.mozilla.Thunderbird -y
+#flatpak install org.mozilla.Thunderbird -y
 flatpak install net.lutris.Lutris -y
 flatpak install io.freetubeapp.FreeTube -y
 ------------------------------------------------------------------------------------------------------------
