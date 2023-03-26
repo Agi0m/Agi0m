@@ -1,1 +1,12 @@
+#These are some programs that are going to be removed after a fresh install
 
+1. Thunderbird
+2. Libreoffice
+3. Drawing
+4. Hexchat
+5. Hypnotix
+6. Rhythmbox
+7. Transmission
+8. Calculator
+9. Pix
+1o. Firefox
