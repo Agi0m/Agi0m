@@ -2,9 +2,9 @@
 
 sudo apt update
 sudo apt upgrade
-apt install geany conky htop neofetch kitty qbittorrent cmatrix duf ranger xsensorsr -y
+apt install geany conky htop neofetch kitty cmatrix duf ranger xsensorsr -y
 -----------------------------------------------------------------------------------------------------------
-flatpak isntall com.discordapp.Discord -y
+flatpak install com.discordapp.Discord -y
 flatpak install com.github.tch84.Flatseal -y
 flatpak install com.github.johnfactotum.Foliate -y
 flatpak install com.github.iwalton3.jellyfin-media-player -y
