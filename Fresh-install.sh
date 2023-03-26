@@ -2,7 +2,7 @@
 
 sudo apt update
 sudo apt upgrade
-apt install geany conky htop neofetch kitty cmatrix duf ranger xsensorsr -y
+apt install geany conky htop neofetch kitty cmatrix duf ranger xsensorsr rofi -y
 -----------------------------------------------------------------------------------------------------------
 #flatpak install com.discordapp.Discord -y
 flatpak install com.github.tch84.Flatseal -y
