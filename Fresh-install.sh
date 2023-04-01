@@ -41,6 +41,6 @@ apt autoremove
 
 echo "All done"
 
-#/reboot
+#reboot
 
 ##The end
