@@ -3,7 +3,7 @@ echo "## Update and upgrade"
 
 sudo apt update
 sudo apt upgrade
-apt install conky htop neofetch kitty cmatrix duf ranger xsensors rofi plank dropbox nala -y
+apt install conky htop neofetch kitty cmatrix duf ranger xsensors rofi plank dropbox nala variety -y
 
 echo "## Install deb-get"
 sudo apt install curl
@@ -32,8 +32,9 @@ echo "--------------------------------------------------------------------------
 wget https://github.com/xgi/houdoku/releases/download/v2.11.0/Houdoku-2.11.0.AppImage
 wget https://github.com/TheAssassin/AppImageLauncher/releases/download/v2.2.0/appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImage
 
-echo "## Install appimagelauncher"
-./-appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImage install
+echo " Installing Oh my zsh "
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 apt autoclean
 apt autoremove

@@ -2,48 +2,68 @@
 
 ## Thunderbird
 
-sudo apt purge thunderbird
-sudo apt purge thunderbird-gnome-support
-sudo apt purge thunderbird-locale-en
-sudo apt purge thunderbird-licale-en-us
+sudo apt purge thunderbird -y
+sudo apt purge thunderbird-gnome-support -y
+sudo apt purge thunderbird-locale-en -y
+sudo apt purge thunderbird-locale-en-us -y
 
 ## Libreoffice
 
-sudo apt purge libreoffice-*
-sudo apt purge ure
-sudo apt purge ure-*
-sudo apt purge hunspell-*
-sudo apt purge mythes-*
-sudo apt purge hyphen-*
-sudo apt purge libuno-*
+sudo apt purge libreoffice-* -y
+sudo apt purge ure -y
+sudo apt purge ure-* -y
+sudo apt purge hunspell-* -y
+sudo apt purge mythes-* -y
+sudo apt purge hyphen-* -y
+sudo apt purge libuno-* -y
 
 ## Drawing
 
-sudo apt purge drawing
+sudo apt purge drawing -y
 
 ## Hexchat
 
-sudo apt purge hexchat
-sudo apt purge hexchat-common
+sudo apt purge hexchat -y
+sudo apt purge hexchat-common -y
 
 ## Hypnotix
 
-sudo apt purge hypnotix
+sudo apt purge hypnotix -y
 
 ## Rhythmbox
 
-sudo apt purge rhythmbox
-sudo apt purge rhythmbox-*
+sudo apt purge rhythmbox -y
+sudo apt purge rhythmbox-* -y
 
 ## Transmission
 
-sudo apt purge transmission-*
+sudo apt purge transmission-* -y
 
 ## Calculator
 
-sudo apt purge gnome-calculator
+sudo apt purge gnome-calculator -y
 
 ## Firefox
 
-sudo apt purge firefox
-sudo apt purge firefox-*
+sudo apt purge firefox -y
+sudo apt purge firefox-* -y
+
+## Library
+
+sudo apt purge thingy -y
+
+## Onboard
+
+sudo apt purge onboard onboard-common -y
+
+## Notes
+
+sudo apt purge sticky -y
+
+## Calendar
+
+sudo apt purge gnome-calendar -y
+
+## Document Scanner
+
+sudo apt purge simple-scan -y
