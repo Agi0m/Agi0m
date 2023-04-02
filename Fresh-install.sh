@@ -3,7 +3,7 @@ echo "## Update and upgrade"
 
 sudo apt update
 sudo apt upgrade
-apt install conky htop neofetch kitty cmatrix duf ranger xsensors rofi plank dropbox nala variety -y
+apt install conky htop neofetch kitty cmatrix duf ranger xsensors rofi plank dropbox nala variety zsh -y
 
 echo "## Install deb-get"
 sudo apt install curl
