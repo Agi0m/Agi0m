@@ -24,6 +24,6 @@ echo "##################################################"
 echo "  Starting to extract themes at /home/user/.themes"
 echo "##################################################"
 
-cd Kripton
-rm package.json package-lock.json Gulpfile.js Art src 
-mv * ~/.themes
+#cd Kripton
+#rm package.json package-lock.json Gulpfile.js Art src 
+#mv * ~/.themes
