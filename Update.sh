@@ -7,4 +7,4 @@ flatpak update
 deb-get update
 deb-get upgrade -y
 
-#End
+echo " End "
