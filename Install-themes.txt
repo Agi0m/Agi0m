@@ -1,0 +1,14 @@
+1. Kripton theme -- https://github.com/EliverLara/Kripton
+2. Nordic theme -- https://github.com/EliverLara/Nordic
+3. Otis theme -- https://github.com/EliverLara/otis
+4. Quartz night theme -- https://github.com/darkomarko42/Quartz-Night
+5. Graphite theme -- https://github.com/vinceliuice/Graphite-gtk-theme
+6. BlueSky theme -- https://github.com/i-mint/bluesky
+7. Colloid theme -- https://github.com/vinceliuice/Colloid-gtk-theme
+8. Jsaper theme -- https://github.com/vinceliuice/Nephrite-gtk-theme
+9. Lavanda theme -- https://github.com/vinceliuice/Lavanda-gtk-theme
+10. LightningBug theme -- https://github.com/i-mint/LightningBug
+11. Marshmallow theme -- https://github.com/erenyldz89/Marshmallow1
+12. Sweet theme -- https://github.com/EliverLara/Sweet
+13. TokyoNight theme -- https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme
+14. Zorin OS theme -- https://github.com/ZorinOS/zorin-desktop-themes

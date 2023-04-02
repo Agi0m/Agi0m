@@ -1,0 +1,13 @@
+1. Candy icons -- https://github.com/EliverLara/candy-icons
+2. Bigsur icons -- https://github.com/zayronxio/Mkos-Big-Sur
+3. Catppucine icons -- https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme
+4. Deepin2022 icons -- https://github.com/zayronxio/Deepin-icons-2022
+5. Kora icons -- https://github.com/bikass/kora
+6. McMojave icons -- https://github.com/vinceliuice/Mojave-gtk-theme
+7. Monday icons -- https://github.com/luisrguerra/monday-icon-theme
+8. Nordzy icons -- https://github.com/alvatip/Nordzy-icon
+9. Reversal icons -- https://github.com/yeyushengfan258/Reversal-icon-theme
+10. Infinity icons -- https://github.com/L4ki/Infinity-Plasma-Themes
+11. Newaita icons -- https://github.com/cbrnix/Newaita-reborn
+12. Rowaita icons -- https://github.com/4e6anenk0/Rowaita-icon-theme
+13. TokyoNight icons -- https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme
