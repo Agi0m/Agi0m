@@ -32,21 +32,21 @@ echo "                                         "
 echo "##################################################"
 echo "              Adding Kripton                      "
 echo "##################################################"
-#cd Kripton
-#rm -rf package.json package-lock.json Gulpfile.js Art src
-#cd ..
-#mv Kripton ~/.themes
-ls
+cd Kripton
+rm -rf package.json package-lock.json Gulpfile.js Art src
+cd ..
+mv Kripton ~/.themes
+
 
 
 echo "##################################################"
 echo "              Adding Nordic                       "
 echo "##################################################"
 
-#cd Nordic
-#rm -rf package.json package-lock.json Gulpfile.js FUNDING.yml Art src extras
-#cd ..
-#mv Nordic ~/.themes
+cd Nordic
+rm -rf package.json package-lock.json Gulpfile.js FUNDING.yml Art src extras
+cd ..
+mv Nordic ~/.themes
 
 
 echo "                                         "
@@ -58,10 +58,10 @@ echo "##################################################"
 echo "              Adding otis                         "
 echo "##################################################"
 
-#cd otis
-#rm -rf package.json package-lock.json Gulpfile.js Art src
-#cd ..
-#mv otis ~/.themes
+cd otis
+rm -rf package.json package-lock.json Gulpfile.js Art src
+cd ..
+mv otis ~/.themes
 
 echo "                                         "
 echo "                                         "
