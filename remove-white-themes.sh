@@ -8,7 +8,7 @@ echo "############################################"
 
 
 cd ~/.themes
-rm -rf light* Light*
+rm -rf 
 
 echo "                                     "
 echo "                                     "
