@@ -2,7 +2,7 @@
 echo "## Update and upgrade"
 
 sudo apt update
-sudo apt upgrade
+sudo apt upgrade -y
 apt install conky htop neofetch kitty cmatrix duf ranger xsensors rofi plank dropbox nala variety zsh -y
 
 echo "## Installing deb-get"
