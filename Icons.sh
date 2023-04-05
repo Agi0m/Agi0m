@@ -15,6 +15,7 @@ git clone https://github.com/yeyushengfan258/Reversal-icon-theme
 git clone https://github.com/cbrnix/Newaita-reborn
 git clone https://github.com/4e6anenk0/Rowaita-icon-theme
 git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme
+git clone https://github.com/vinceliuice/Colloid-icon-theme
 
 
 
@@ -175,3 +176,20 @@ echo "##############################"
 cd Tokyo-Night-GTK-Theme
 cd icons
 mv * ~/.icons
+
+
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+
+echo "##############################"
+echo " Installing Colloid icons     "
+echo "##############################"
+
+cd Colloid-icon-theme
+cd src
+mkdir ~/.icons/Colloid
+mv * ~/.icons/Colloid
+cd ..
+cd ..
