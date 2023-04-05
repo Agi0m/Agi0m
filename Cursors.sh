@@ -22,8 +22,8 @@ echo "                                         "
 echo "                                         "
 echo "                                         "
 
-cd Broealis-cursors
-mv Borealis-cursors ./.icons
+cd Borealis-cursors
+mv Borealis-cursors ~/.icons
 cd ..
 
 
@@ -37,7 +37,7 @@ echo "                                         "
 echo "                                         "
 
 cd Nordzy-cursors
-mv Nordzy-cursors Nordzy-cursors-lefthand ./icons
+mv Nordzy-cursors Nordzy-cursors-lefthand ~/.icons
 cd ..
 
 
@@ -49,3 +49,15 @@ echo "                                         "
 echo "                                         "
 echo "                                         "
 echo "                                         "
+
+cd Colloid-icon-theme
+cd cursors
+mkdir ~./icons/Colloid-cursors
+cd dist
+mv * ~/.icons/Colloid-cursors
+cd ..
+cd dist-dark
+mkdir ~/.icons/Colloid-cursors-dark
+mv * ~/.icons/Colloid-cursors-dark
+cd ..
+cd ..
