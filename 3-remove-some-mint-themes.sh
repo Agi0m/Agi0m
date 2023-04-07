@@ -1,6 +1,13 @@
 #!/bin/bash
 
-echo "Remove some mint themes"
+echo "##############################"
+echo "    Remove some mint themes   "
+echo "##############################"
+
+echo "                                         "
+echo "                                         "
+echo "                                         "
+echo "                                         "
 
 cd /usr/share/themes
 
@@ -17,4 +24,7 @@ sudo rm -rf  Mint-X-*
 sudo rm -rf Mint-Y-Legacy-*
 sudo rm -rf Yaru Yaru-*
 
-echo "All done"
+
+echo "##############################"
+echo "           All done           "
+echo "##############################"
