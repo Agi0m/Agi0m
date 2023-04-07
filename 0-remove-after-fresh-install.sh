@@ -152,3 +152,13 @@ echo "   Purging Document Scanner   "
 echo "##############################"
 
 sudo apt purge simple-scan -y
+
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "          Purging Pix         "
+echo "##############################"
+
+sudo apt purge pix pix-data pix-dbg -y
