@@ -1,13 +1,26 @@
 ## Remove apps after a fresh install
 
-## Thunderbird
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "     Purging Thunderbird      "
+echo "##############################"
 
 sudo apt purge thunderbird -y
 sudo apt purge thunderbird-gnome-support -y
 sudo apt purge thunderbird-locale-en -y
 sudo apt purge thunderbird-locale-en-us -y
 
-## Libreoffice
+
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "     Purging Libreoffice      "
+echo "##############################"
 
 sudo apt purge libreoffice-* -y
 sudo apt purge ure -y
@@ -17,53 +30,125 @@ sudo apt purge mythes-* -y
 sudo apt purge hyphen-* -y
 sudo apt purge libuno-* -y
 
-## Drawing
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "       Purging Drawing        "
+echo "##############################"
 
 sudo apt purge drawing -y
 
-## Hexchat
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "       Purging Hexchat        "
+echo "##############################"
 
 sudo apt purge hexchat -y
 sudo apt purge hexchat-common -y
 
-## Hypnotix
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "       Purging Hypnotix       "
+echo "##############################"
 
 sudo apt purge hypnotix -y
 
-## Rhythmbox
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "      Purging Rhythmbox       "
+echo "##############################"
 
 sudo apt purge rhythmbox -y
 sudo apt purge rhythmbox-* -y
 
-## Transmission
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "     Purging Transmission     "
+echo "##############################"
 
 sudo apt purge transmission-* -y
 
-## Calculator
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "     Purging Calculator       "
+echo "##############################"
 
 sudo apt purge gnome-calculator -y
 
-## Firefox
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "       Purging Firefox        "
+echo "##############################"
 
 sudo apt purge firefox -y
 sudo apt purge firefox-* -y
 
-## Library
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "       Purging Library        "
+echo "##############################"
 
 sudo apt purge thingy -y
 
-## Onboard
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "       Purging Onboard        "
+echo "##############################"
 
 sudo apt purge onboard onboard-common -y
 
-## Notes
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "       Purging Notes          "
+echo "##############################"
 
 sudo apt purge sticky -y
 
-## Calendar
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "      Purging Calendar        "
+echo "##############################"
 
 sudo apt purge gnome-calendar -y
 
-## Document Scanner
+echo "                                           "
+echo "                                           "
+echo "                                           "
+
+echo "##############################"
+echo "   Purging Document Scanner   "
+echo "##############################"
 
 sudo apt purge simple-scan -y

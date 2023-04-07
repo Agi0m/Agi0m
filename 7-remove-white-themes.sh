@@ -1,10 +1,9 @@
 echo "                               "
 echo "                               "
 
-echo "############################################"
-echo " Since I am a drak theme fan I want to
-     remove all white themes from my .themes folder"
-echo "############################################"
+echo "###############################################"
+echo " Remove all white themes from my .themes folder"
+echo "###############################################"
 
 
 cd ~/.themes
@@ -13,4 +12,7 @@ rm -rf BlueSky-light BlueSky-Clean* BlueSky-Mountain-* BlueSky-Solid-Light Collo
 echo "                                     "
 echo "                                     "
 echo "                                     "
-echo " All done "
+
+echo "##############################"
+echo "           All done           "
+echo "##############################"
