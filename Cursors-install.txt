@@ -1,5 +1,0 @@
-1. Borealis Cursors -- https://github.com/alvatip/Borealis-cursors
-2. Nordzy cursors -- https://github.com/alvatip/Nordzy-cursors
-3. Colloid cursors -- https://github.com/vinceliuice/Colloid-icon-theme/tree/main/cursors
-4. Dracula cursors -- https://github.com/dracula/gtk/tree/master/kde/cursors
-5. 
