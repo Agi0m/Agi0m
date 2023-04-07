@@ -52,7 +52,7 @@ echo "                                         "
 
 cd Colloid-icon-theme
 cd cursors
-mkdir ~./icons/Colloid-cursors
+mkdir ~/.icons/Colloid-cursors
 cd dist
 mv * ~/.icons/Colloid-cursors
 cd ..
