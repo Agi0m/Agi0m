@@ -14,7 +14,7 @@ git clone https://github.com/vinceliuice/Nephrite-gtk-theme
 git clone https://github.com/i-mint/LightningBug
 git clone https://github.com/vinceliuice/Lavanda-gtk-theme
 git clone https://github.com/erenyldz89/Marshmallow1
-git clone https://github.com/EliverLara/Sweet
+#git clone https://github.com/EliverLara/Sweet
 git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme
 git clone https://github.com/ZorinOS/zorin-desktop-themes
 
@@ -159,14 +159,14 @@ echo "                                         "
 echo "                                         "
 
 
-echo "##################################################"
-echo "                Adding Sweet                      "
-echo "##################################################"
+#echo "##################################################"
+#echo "                Adding Sweet                      "
+#echo "##################################################"
 
-cd Sweet
-rm -rf package.json package-lock.json Gulpfile.js Art src 
-cd ..
-mv Sweet ~/.themes
+#cd Sweet
+#rm -rf package.json package-lock.json Gulpfile.js Art src 
+#cd ..
+#mv Sweet ~/.themes
 
 
 echo "                                         "
