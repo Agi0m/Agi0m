@@ -6,7 +6,7 @@
 
 # Variables
 # get your city id at https://openweathermap.org/find and replace
-city_id=786712
+city_id=3183875
 
 # you can use this or replace with yours
 api_key=b59117c083dfa1d4e6cc3186a568fd26
