@@ -10,7 +10,7 @@ echo "##############################"
 
 sudo apt update
 sudo apt upgrade -y
-apt install conky htop neofetch kitty duf ranger xsensors rofi plank dropbox nala variety zsh libsass1 sassc -y
+apt install conky htop neofetch kitty duf ranger rofi plank dropbox nala variety zsh libsass1 sassc -y
 
 echo "                                           "
 echo "                                           "
