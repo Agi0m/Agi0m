@@ -15,7 +15,7 @@ To do :  Create a simple after install script to change any desktop fit my needs
 
 Inspired by : Erik Dubois
 
-#Conky
+# Conky
 
 The regulus conky needs a few adjustments to mathch the cores of the cpu in order to work properly because it won't start unless you fix those in the config ~/.config/concky/Regulus/Regulus.conf
 
