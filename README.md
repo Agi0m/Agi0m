@@ -17,7 +17,7 @@ Inspired by : Erik Dubois
 
 # Conky
 
-The regulus conky needs a few adjustments to mathch the cores of the cpu in order to work properly because it won't start unless you fix those in the config ~/.config/concky/Regulus/Regulus.conf
+The regulus conky needs a few adjustments to match the cores of the cpu in order to work properly because it won't start unless you fix those in the config ~/.config/concky/Regulus/Regulus.conf
 
 <!---
 Agi0m/Agi0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
