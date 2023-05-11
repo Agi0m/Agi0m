@@ -1,0 +1,1 @@
+pkill ~/Scripts/conky.sh
