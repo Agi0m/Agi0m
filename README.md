@@ -1,7 +1,4 @@
-# Trying to make the perfect fresh install configs but still have a long way to go
-
-
-Favourite distro: Fedora
+# Trying to make the perfect fresh install configs
 
 
 Current distro I'm using: Linux Mint 21.1 "Vera"
@@ -15,12 +12,13 @@ To do :  Create a simple after install script to change any desktop fit my needs
 
 Inspired by : Erik Dubois
 
-# Conky
-
-The regulus conky needs a few adjustments to match the cores of the cpu in order to work properly because it won't start unless you fix those in the config ~/.config/concky/Regulus/Regulus.conf
-
 ## Update Script
 I would recommend when you use the update script to just avoid the held back packages between Ubuntu and Linux Mint because it may damage the system or just use the Update Manager from the Linux Mint team it works great.
+
+### Conky
+The regulus conky needs a few adjustments to match the cores of the cpu in order to work properly because it won't start unless you fix those in the config ~/.config/concky/Regulus/Regulus.conf
+
+
 <!---
 Agi0m/Agi0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
