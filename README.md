@@ -18,6 +18,8 @@ I would recommend when you use the update script to just avoid the held back pac
 ### Conky
 The regulus conky needs a few adjustments to match the cores of the cpu in order to work properly because it won't start unless you fix those in the config ~/.config/concky/Regulus/Regulus.conf
 
+![Preview conky](https://github.com/Agi0m/Agi0m/blob/fa17db3efbdd2f65e68538e456f18e331a3f84b0/Conky/Regulus/preview-mine.png "Preview")
+
 ![https://github.com/Agi0m/Agi0m/blob/fa17db3efbdd2f65e68538e456f18e331a3f84b0/Conky/Regulus/preview-mine.png] (Preview)
 
 <!---
