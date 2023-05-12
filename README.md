@@ -19,6 +19,8 @@ Inspired by : Erik Dubois
 
 The regulus conky needs a few adjustments to match the cores of the cpu in order to work properly because it won't start unless you fix those in the config ~/.config/concky/Regulus/Regulus.conf
 
+## Update Script
+I would recommend when you use the update script to just avoid the held back packages between Ubuntu and Linux Mint because it may damage the system or just use the Update Manager from the Linux Mint team it works great.
 <!---
 Agi0m/Agi0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
