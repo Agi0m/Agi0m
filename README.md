@@ -20,6 +20,8 @@ The regulus conky needs a few adjustments to match the cores of the cpu in order
 
 ![Preview conky](https://github.com/Agi0m/Agi0m/blob/fa17db3efbdd2f65e68538e456f18e331a3f84b0/Conky/Regulus/preview-mine.png "Preview")
 
+![Preview conky with music](https://github.com/Agi0m/Agi0m/blob/40426da8828601e0015caab383e5caf8995c8c03/Conky/Regulus/With%20music%20playing.png?raw=true "Preview")
+
 <!---
 Agi0m/Agi0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
