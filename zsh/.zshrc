@@ -8,7 +8,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="random"
+ZSH_THEME="3den"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -75,7 +75,6 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
@@ -99,20 +98,21 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias update="/home/agim/Scripts/Update.sh"
-alias upgrade="sudo nala upgrade"
+alias update="/home/agim/.config/scripts/Update.sh"
 alias upgradable="sudo nala list --upgradable"
 alias home="cd ~"
 alias games="cd Games"
 alias cl="clear"
-alias remove="sudo nala purge"
 alias off="shutdown now"
-alias python="/home/agim/Scripts/Python"
 alias install="sudo nala install"
 alias search="sudo nala search"
 alias uni="sudo nala remove"
 alias purge="sudo nala purge"
 alias weather="curl wttr.in/kosova"
-neofetch
+alias josh="/home/agim/.config/scripts/joshuto.sh >/dev/null"
+#~/.config/scripts/Neofetch.sh
+screenfetch -t
 #cat /etc/linuxmint/info
-MANGOHUD=1
+
+#$ZSH_CUSTOM/plugins/
+source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh >/dev/null

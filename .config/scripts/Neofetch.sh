@@ -1,0 +1,1 @@
+neofetch --kitty --battery-display
