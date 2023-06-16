@@ -10,7 +10,7 @@ echo "##############################"
 
 sudo apt update
 sudo apt upgrade -y
-apt install conky htop neofetch kitty duf ranger rofi plank dropbox nala variety zsh libsass1 sassc playerctl mpv ffmpeg meld cpupower-gui -y
+apt install conky htop neofetch kitty duf rofi plank nala variety zsh libsass1 sassc playerctl mpv ffmpeg meld cpupower-gui pandoc nnn awesome -y
 
 echo "                                           "
 echo "                                           "
@@ -40,7 +40,6 @@ echo " Installing Flatpak (Uncheck if you want to install) "
 
 #flatpak install com.discordapp.Discord -y
 #flatpak install com.github.tch84.Flatseal -y
-#flatpak install com.github.johnfactotum.Foliate -y
 #flatpak install com.github.iwalton3.jellyfin-media-player -y
 #flatpak install onfo.febvre.Komikku -y
 #flatpak install net.agalwood.Motrix -y
@@ -48,7 +47,6 @@ echo " Installing Flatpak (Uncheck if you want to install) "
 #flatpak install io.freetubeapp.FreeTube -y
 #flatpak install com.dec05eba.gpu_screen_recorder
 #flatpak install com.github.hugolabe.Wike
-#flatpak install io.github.thaunknown.miru
 #flatpak install com.github.unrud.RemoteTouchpad
 #flatpak install org.qbittorrent.qBittorrent
 #flatpak install io.github.vikdevelop.SaveDesktop
