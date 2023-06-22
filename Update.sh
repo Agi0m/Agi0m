@@ -4,7 +4,7 @@ echo "##############################"
 echo "#    Updating and Upgrading  #"
 echo "##############################"
 
-sudo nala update && sudo nala list --upgradable && sudo nala upgrade
+sudo apt update && sudo apt list --upgradable && sudo apt upgrade
 
 echo "#####################################"
 echo "#   Updating and Upgrading Flatpak  #"
