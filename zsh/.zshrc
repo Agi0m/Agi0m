@@ -8,7 +8,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="3den"
+ZSH_THEME="gallois"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -98,7 +98,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias update="/home/agim/.config/scripts/Update.sh"
+alias up="/home/agim/.config/scripts/Update.sh"
 alias upgradable="sudo nala list --upgradable"
 alias home="cd ~"
 alias games="cd Games"
@@ -110,9 +110,14 @@ alias uni="sudo nala remove"
 alias purge="sudo nala purge"
 alias weather="curl wttr.in/kosova"
 alias josh="/home/agim/.config/scripts/joshuto.sh >/dev/null"
+alias aw="cd /home/agim/.config/awesome"
 #~/.config/scripts/Neofetch.sh
-screenfetch -t
+#screenfetch -t
 #cat /etc/linuxmint/info
 
+#Add new path 
+#export PATH="/var/lib/flatpak/exports/bin:$PATH"
+#export PATH="$HOME/.local/bin/:$PATH"
 #$ZSH_CUSTOM/plugins/
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh >/dev/null
+fpath+=${ZDOTDIR:-~}/.zsh_functions
