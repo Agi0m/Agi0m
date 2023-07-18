@@ -1,7 +1,7 @@
 # Trying to make the perfect fresh install configs
 
 
-* Current distro I'm using: Linux Mint 21.1 _"Vera"_
+* Current distro I'm using: Linux Mint 21.1 _"Victoria"_
 
 
 * Knowledge on coding: Just some basics on bash and html.
