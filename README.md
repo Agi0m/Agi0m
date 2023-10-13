@@ -1,5 +1,6 @@
 # Trying to make the perfect fresh install configs
 
+[![Agi0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=agi0m)](https://github.com/agi0m/github-readme-stats)
 
 * Current distro I'm using: Linux Mint 21.1 _"Victoria"_
 
