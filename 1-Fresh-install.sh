@@ -10,7 +10,7 @@ echo "##############################"
 
 sudo apt update
 sudo apt upgrade -y
-apt install conky htop neofetch kitty duf rofi plank nala variety zsh libsass1 sassc playerctl mpv ffmpeg meld cpupower-gui pandoc nnn awesome -y
+apt install conky htop neofetch kitty duf plank variety zsh playerctl mpv ffmpeg meld cpupower-gui pandoc awesome -y
 
 echo "                                           "
 echo "                                           "
@@ -43,9 +43,7 @@ echo " Installing Flatpak (Uncheck if you want to install) "
 #flatpak install com.github.iwalton3.jellyfin-media-player -y
 #flatpak install onfo.febvre.Komikku -y
 #flatpak install net.agalwood.Motrix -y
-#flatpak install net.lutris.Lutris -y
 #flatpak install io.freetubeapp.FreeTube -y
-#flatpak install com.dec05eba.gpu_screen_recorder
 #flatpak install com.github.hugolabe.Wike
 #flatpak install com.github.unrud.RemoteTouchpad
 #flatpak install org.qbittorrent.qBittorrent
