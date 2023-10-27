@@ -2,7 +2,7 @@
 
 [![Agi0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=agi0m)](https://github.com/agi0m/github-readme-stats)
 
-* Current distro I'm using: Linux Mint 21.1 _"Victoria"_
+* Current distro I'm using: Linux Mint 21.2 _"Victoria"_
 
 
 * Knowledge on coding: Just some basics on bash and html.
