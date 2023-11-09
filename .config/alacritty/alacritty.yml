@@ -1,0 +1,80 @@
+window:
+  dimensions:
+    columns: 120
+    lines: 30
+  #title: Alacritty
+  border: pixel
+  padding:
+    x: 10
+    y: 10
+  dynamic_padding: false
+  decorations: full
+  opacity: 0.93
+  override_redirect: true
+  corner_radius: 12
+  startup_mode: Maximized
+  dynamic_title: true
+  decorations_theme_variant: None
+
+  colors:
+  background: '#1d1f21'
+  foreground: '#c5c8c6'
+  dim_foreground: '#828482'
+  bright_foreground: '#eaeaea'
+  normal:
+  black:   '#1d1f21'
+  red:     '#cc6666'
+  green:   '#b5bd68'
+  yellow:  '#f0c674'
+  blue:    '#81a2be'
+  magenta: '#b294bb'
+  cyan:    '#8abeb7'
+  white:   '#c5c8c6'
+
+
+font:
+  normal:
+    family: JetBrains Mono Nerd Font
+    style: SemiBold
+  bold:
+    family: JetBrains Mono Nerd Font
+    style: Bold
+  italic:
+    family: JetBrains Mono Nerd Font
+    style: MediumItalic
+  bold_italic:
+    family: JetBrains Mono Nerd Font
+    style: BoldItalic
+  size: 12
+draw_bold_text_with_bright_colors: true
+
+
+cursor:
+  style: Beam
+  text: CellBackground
+  cursor: CellForeground
+  thickness: 0.25
+
+theme:
+  normal:
+    background: '#000000'
+    foreground: '#ffffff'
+  bright:
+    background: '#000000'
+    foreground: '#ffffff'
+
+prompt:
+  style: 'bright'
+
+scrollback:
+  history: 10000
+
+selection:
+  semantic: true
+
+mouse:
+  triple_click_selects_all: true
+
+input:
+  mouse_binding_mode: default
+
